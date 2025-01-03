@@ -100,6 +100,12 @@ Login
 ## Untuk lebih lengkapnya anda bisa merujuk pada sumber official
 https://github.com/hyperspaceai/aios-cli/tree/main
 
+## Support Airdrop Node
+
+For more updates and discussions, join the [Telegram Airdrop Node](https://t.me/airdrop_node).
+
+Traktir Admin Buat kopi
+[Traktir Kopi ](https://trakteer.id/AirdropNode/tip).
 
 
 
