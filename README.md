@@ -95,10 +95,20 @@ Login
   ```bash
   aios-cli hive whoami
   ```
-## Untuk Stop Node jika diperlukan
+## Jika Node stop, Restart
 
   ```bash
   aios-cli kill
+  ```
+
+Masuk Screen
+
+  ```bash
+  screen -r airdropnode_aios
+  ```
+
+  ```bash
+  aios-cli start --connect
   ```
 
 ## Untuk lebih lengkapnya anda bisa merujuk pada sumber official
